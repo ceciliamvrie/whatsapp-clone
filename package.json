@@ -1,0 +1,26 @@
+{
+  "name": "whatsapp-clone",
+  "version": "1.0.0",
+  "description": "This hopefully will be a whatsapp clone! Whoop!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceciliamvrie/whatsapp-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceciliamvrie/whatsapp-clone/issues"
+  },
+  "homepage": "https://github.com/ceciliamvrie/whatsapp-clone#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
